@@ -90,11 +90,11 @@ case 1:
     printf("\n");
     printf("The movies are:\n");
     printf("*Joe*->Rs.100\n");
-    printf("*Siddha*Rs.150\n");
+    printf("*Chithha*Rs.150\n");
     printf("Number of screen:1\n");
     printf("The timings of the movies are..,:\n");
     printf("Joe-->10:00 AM - 1:00 PM && 7:00 PM - 10:00 PM\n");
-    printf("Siddha-->2:00 PM - 5:00 PM\n");}
+    printf("Chithha-->2:00 PM - 5:00 PM\n");}
     else if(place==2&&theatre==1){
     printf("\n");
     printf("The movies are:\n");
@@ -184,11 +184,11 @@ case 2:
     else{
     printf("\n");
     printf("*Joe*->Rs.180\n");
-    printf("*Siddha*->Rs.155\n");
+    printf("*Chithha*->Rs.155\n");
     printf("Number of screen:1\n");
     printf("The timings of the movies are..,:\n");
     printf("Joe-->10:00 AM - 1:00 PM && 7:00 PM - 10:00 PM\n");
-    printf("Siddha-->2:00 PM - 5:00 PM\n");}
+    printf("Chithha-->2:00 PM - 5:00 PM\n");}
     break;
 case 3:
     if(place==2 && theatre==3){
